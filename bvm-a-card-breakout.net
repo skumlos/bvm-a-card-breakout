@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source /home/martin/SkumServer/eda-projects/bvm-a-card-breakout/bvm-a-card-breakout.sch)
-    (date "2020-08-31T22:35:23 CEST")
+    (date "2020-10-08T18:06:12 CEST")
     (tool "Eeschema 4.0.7-e2-6376~61~ubuntu18.04.1")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -17,7 +17,7 @@
   (components
     (comp (ref J1)
       (value mezz-conn-02x50)
-      (footprint TX25-100P-LT-H1E:TX24-100R-LT-H1E)
+      (footprint TX25-100P-LT-H1E:TX25-100P-LT-H1E)
       (libsource (lib mezz-conn-02x50) (part mezz-conn-02x50))
       (sheetpath (names /) (tstamps /))
       (tstamp 5F4D44EF))
