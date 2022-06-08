@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name bvm-a-card-breakout-rescue)(type Legacy)(uri ${KIPRJMOD}/bvm-a-card-breakout-rescue.lib)(options "")(descr ""))
+  (lib (name mezz-conn-02x50)(type Legacy)(uri ${KIPRJMOD}/mezz-conn-02x50.lib)(options "")(descr ""))
+)
